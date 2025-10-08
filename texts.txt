@@ -1,0 +1,425 @@
+[28/08/2023, 10:15:33] Property Dealer Raj: 2BHK available for rent in Andheri East. 1100 sqft, semi-furnished, 65k rent. Near metro station. Contact: 9812312345
+[28/08/2023, 11:47:02] Broker Simran: 3BHK luxury flat for sale in Powai. 1850 sqft, 4.2 Cr. Sea facing, clubhouse, 3 parking. Call 9823412345 for site visit.
+[28/08/2023, 12:30:15] Real Estate Amit: 1RK studio apartment available in Lokhandwala. 450 sqft, fully furnished, 25k rent. Ideal for bachelors. WhatsApp for pics: 9876543210
+[28/08/2023, 14:22:44] Commercial Expert: Shop space available in Bandra West. 800 sqft, 1.5L rent. Main road, good footfall. Immediate possession. Contact: 9898765432
+[28/08/2023, 15:45:19] Property Agent: 2BHK ready to move flat in Malad West. 1200 sqft, 1.8Cr. 2nd floor, park facing. No brokerage. Serious buyers only: 9811122233
+[28/08/2023, 16:20:33] Luxury Homes: 3BHK duplex for rent in Juhu. 2200 sqft, 1.2L rent. 3 bathrooms, modular kitchen. Available from next month. Call 9822233344
+[28/08/2023, 17:15:47] Budget Properties: 1BHK budget flat in Kandivali East. 650 sqft, 42k rent. Near station, market area. Security deposit 2 months. Contact: 9833344455
+[28/08/2023, 18:30:12] Premium Dealer: 4BHK penthouse for sale in Worli. 3200 sqft, 8.5Cr. Private terrace, sea view, 4 parking. Premium location. Agent: 9844455566
+[28/08/2023, 19:05:28] Office Spaces: Commercial office available in Lower Parel. 1500 sqft, 90k rent. IT park, 24/7 security. Ideal for startup. Call 9855566677
+[28/08/2023, 20:40:55] Resale Properties: 2BHK resale flat in Goregaon East. 950 sqft, 1.1Cr. 5 years old, good condition. Loan available. Contact: 9866677788
+[29/08/2023, 09:15:33] Rental Specialist: 3BHK furnished flat for rent in Chembur. 1400 sqft, 55k. All appliances included. Family preferred. No pets. WhatsApp: 9877788899
+[29/08/2023, 10:25:41] New Projects: 1BHK new construction in Thane. 700 sqft, 85L. Possession in 6 months. Project approved. Booking amount 10%. Builder direct: 9888899900
+[29/08/2023, 11:35:22] Warehouse Dealer: Industrial space available in Bhiwandi. 5000 sqft, 2L rent. 30ft height, loading dock. Industrial area. Owner: 9899900011
+[29/08/2023, 12:45:18] Corner Flat Expert: 2BHK corner flat in Borivali West. 1100 sqft, 1.4Cr. 5th floor, 2 balconies. Vaastu compliant. Quick deal: 9812312312
+[29/08/2023, 14:20:39] Service Apartments: 3BHK service apartment for rent in South Mumbai. 1800 sqft, 1.5L. All utilities included, housekeeping. Minimum 1 year lease: 9823423423
+[29/08/2023, 15:30:47] PG Accommodation: 1RK paying guest accommodation in Andheri West. 300 sqft, 15k including food. Separate entrance, attached bathroom. Girls only. Call 9834534534
+[29/08/2023, 16:40:12] Farmhouse Dealer: Farmhouse for sale on Mumbai-Pune highway. 2 acre, 3.5Cr. 3 bedrooms, swimming pool. Good for weekend home. Agent: 9845645645
+[29/08/2023, 17:50:33] Auction Properties: 2BHK bank auction property in Navi Mumbai. 1000 sqft, 85L. As-is condition. Clear title. Auction date: 25th March. Contact: 9856756756
+[29/08/2023, 18:55:44] Premium Listings: 3BHK premium flat in Seawoods. 1650 sqft, 2.8Cr. West facing, 3 bathrooms, wooden flooring. Ready to move. Owner: 9867867867
+[29/08/2023, 19:45:27] Mall Shops: Commercial shop in mall, Vashi. 600 sqft, 75k rent. Ground floor, high visibility. Food court location. Investment opportunity: 9878978978
+[01/01/2024, 09:15:33] Property Expert Raj: 2BHK available for rent in Andheri East. 1100 sqft, semi-furnished, 65k rent. Near metro station. Contact: 9812312345
+[01/01/2024, 10:22:18] Broker Simran: 3BHK luxury flat for sale in Powai. 1850 sqft, 4.2 Cr. Sea facing, clubhouse, 3 parking. Call 9823412345
+[01/01/2024, 11:05:42] Real Estate Amit: 1RK studio apartment in Lokhandwala. 450 sqft, fully furnished, 25k rent. Ideal for bachelors. WhatsApp: 9876543210
+[01/01/2024, 11:45:19] Commercial Dealer: Shop space in Bandra West. 800 sqft, 1.5L rent. Main road, good footfall. Immediate possession. Contact: 9898765432
+[01/01/2024, 12:30:55] Property Agent: 2BHK ready to move flat in Malad West. 1200 sqft, 1.8Cr. 2nd floor, park facing. No brokerage. Serious buyers: 9811122233
+[01/01/2024, 13:15:27] Luxury Homes: 3BHK duplex for rent in Juhu. 2200 sqft, 1.2L rent. 3 bathrooms, modular kitchen. Available from next month. Call 9822233344
+[01/01/2024, 14:08:33] Budget Properties: 1BHK budget flat in Kandivali East. 650 sqft, 42k rent. Near station, market area. Security deposit 2 months. Contact: 9833344455
+[01/01/2024, 15:20:14] Premium Dealer: 4BHK penthouse for sale in Worli. 3200 sqft, 8.5Cr. Private terrace, sea view, 4 parking. Premium location. Agent: 9844455566
+[01/01/2024, 16:05:48] Office Spaces: Commercial office in Lower Parel. 1500 sqft, 90k rent. IT park, 24/7 security. Ideal for startup. Call 9855566677
+[01/01/2024, 17:30:22] Resale Properties: 2BHK resale flat in Goregaon East. 950 sqft, 1.1Cr. 5 years old, good condition. Loan available. Contact: 9866677788
+[01/01/2024, 18:15:39] Rental Specialist: 3BHK furnished flat in Chembur. 1400 sqft, 55k rent. All appliances included. Family preferred. No pets. WhatsApp: 9877788899
+[01/01/2024, 19:05:17] New Projects: 1BHK new construction in Thane. 700 sqft, 85L. Possession in 6 months. Project approved. Booking amount 10%. Builder: 9888899900
+[01/01/2024, 20:20:44] Warehouse Dealer: Industrial space in Bhiwandi. 5000 sqft, 2L rent. 30ft height, loading dock. Industrial area. Owner: 9899900011
+[01/01/2024, 21:10:33] Corner Flat Expert: 2BHK corner flat in Borivali West. 1100 sqft, 1.4Cr. 5th floor, 2 balconies. Vaastu compliant. Quick deal: 9812312312
+[01/01/2024, 22:05:28] Service Apartments: 3BHK service apartment in South Mumbai. 1800 sqft, 1.5L rent. All utilities included, housekeeping. Minimum 1 year: 9823423423
+[02/01/2024, 08:45:12] PG Accommodation: 1RK paying guest in Andheri West. 300 sqft, 15k including food. Separate entrance, attached bathroom. Girls only. Call 9834534534
+[02/01/2024, 09:30:45] Farmhouse Dealer: Farmhouse on Mumbai-Pune highway. 2 acre, 3.5Cr. 3 bedrooms, swimming pool. Good for weekend home. Agent: 9845645645
+[02/01/2024, 10:15:33] Auction Properties: 2BHK bank auction property in Navi Mumbai. 1000 sqft, 85L. As-is condition. Clear title. Auction date: 25th March. Contact: 9856756756
+[02/01/2024, 11:20:18] Premium Listings: 3BHK premium flat in Seawoods. 1650 sqft, 2.8Cr. West facing, 3 bathrooms, wooden flooring. Ready to move. Owner: 9867867867
+[02/01/2024, 12:10:55] Mall Shops: Commercial shop in mall, Vashi. 600 sqft, 75k rent. Ground floor, high visibility. Food court location. Investment: 9878978978
+[02/01/2024, 13:05:42] Property Dealer: 1BHK available in Santacruz East. 550 sqft, 35k rent. Near station, market. Good for couples. Contact: 9812387654
+[02/01/2024, 14:25:19] Broker Network: 2BHK semi-furnished in Vile Parle. 850 sqft, 50k rent. 2nd floor, quiet society. Available immediately. Call: 9823478654
+[02/01/2024, 15:40:33] Real Estate Group: 3BHK luxury apartment in Bandra West. 1800 sqft, 2.1Cr sale. Sea view, modern amenities. Premium location. Contact: 9876598765
+[02/01/2024, 16:30:27] Commercial Agent: Office space in Andheri East. 1200 sqft, 80k rent. Near station, good connectivity. Ideal for corporate. WhatsApp: 9898787654
+[02/01/2024, 17:45:12] Property Consultant: 4BHK villa in Powai. 2800 sqft, 5.5Cr. Private garden, 4 bathrooms, modular kitchen. Luxury living. Call: 9811198765
+[02/01/2024, 18:35:48] Rental Services: 1RK studio in Lokhandwala. 400 sqft, 22k rent. Fully furnished, all utilities. Perfect for professionals. Contact: 9833398765
+[02/01/2024, 19:20:33] Budget Homes: 2BHK in Kandivali West. 900 sqft, 45k rent. 3rd floor, park facing. Family preferred. Security: 2 months. Call: 9844498765
+[02/01/2024, 20:15:22] Luxury Apartments: 3BHK duplex in Juhu. 2400 sqft, 3.8Cr sale. Private terrace, Jacuzzi, premium finishes. Exclusive location. Agent: 9855598765
+[02/01/2024, 21:05:47] Office Dealer: Commercial space in Lower Parel. 2000 sqft, 1.2L rent. Premium building, 24/7 power backup. Corporate standards. Contact: 9866698765
+[02/01/2024, 22:10:38] Resale Expert: 2BHK resale in Malad East. 950 sqft, 1Cr. 7 years old, well maintained. Loan available from all banks. WhatsApp: 9877798765
+[03/01/2024, 08:30:15] Rental Network: 3BHK furnished in Andheri West. 1300 sqft, 70k rent. All modern appliances, modular kitchen. Family only. Call: 9888898765
+[03/01/2024, 09:25:42] New Launch: 1BHK in Thane West. 650 sqft, 75L. Under construction, possession in 8 months. RERA approved. Booking: 10%. Builder: 9899998765
+[03/01/2024, 10:40:33] Industrial Properties: Warehouse in Bhiwandi. 8000 sqft, 3L rent. Heavy power, loading facility. Industrial zone. Owner direct: 9812319876
+[03/01/2024, 11:35:27] Premium Homes: 4BHK penthouse in Worli. 3500 sqft, 9Cr. Panoramic sea view, private pool, 4 parking. Ultra luxury. Agent: 9823419876
+[03/01/2024, 12:50:18] Commercial Specialist: Retail shop in Bandra. 500 sqft, 90k rent. High street location, good footfall. Established market. Contact: 9876519876
+[03/01/2024, 13:45:55] Property Dealer: 2BHK in Goregaon West. 1000 sqft, 55k rent. 4th floor, corner flat. Society with amenities. Available: 9822219876
+[03/01/2024, 14:30:33] Broker Association: 3BHK in Chembur. 1200 sqft, 1.8Cr sale. Ready to move, good condition. Near highway. Contact: 9833319876
+[03/01/2024, 15:25:47] Real Estate: 1BHK in Borivali East. 600 sqft, 38k rent. Ground floor, separate entrance. Good for office. WhatsApp: 9844419876
+[03/01/2024, 16:40:22] Service Provider: 3BHK service apartment in South Mumbai. 2000 sqft, 1.8L rent. All inclusive, daily housekeeping. Minimum 6 months: 9855519876
+[03/01/2024, 17:35:18] PG Services: 1RK PG in Andheri. 350 sqft, 18k with food. AC room, attached bathroom. Working professionals preferred. Call: 9866619876
+[03/01/2024, 18:50:33] Farmhouse Agent: Farmhouse in Karjat. 3 acre, 2.5Cr. 4 bedrooms, organic farm, swimming pool. Peaceful location. Contact: 9877719876
+[03/01/2024, 19:45:27] Auction Specialist: 2BHK auction in Panvel. 1100 sqft, 95L. Bank auction, clear title. Good investment opportunity. WhatsApp: 9888819876
+[03/01/2024, 20:30:44] Premium Properties: 3BHK in Seawoods. 1700 sqft, 3Cr. Premium location, high floor, sea view. Ready possession. Owner: 9899919876
+[03/01/2024, 21:25:39] Mall Space: Commercial in Vashi mall. 700 sqft, 85k rent. First floor, good visibility. Established footfall. Investment: 9812321987
+[04/01/2024, 08:15:33] Property Expert: 1BHK in Santacruz West. 500 sqft, 40k rent. 2nd floor, renovated. Near station. Contact: 9823421987
+[04/01/2024, 09:20:18] Broker Partner: 2BHK in Vile Parle West. 800 sqft, 52k rent. Semi-furnished, good locality. Family preferred. Call: 9876521987
+[04/01/2024, 10:35:42] Real Estate Pro: 3BHK in Bandra East. 1600 sqft, 2.3Cr sale. Well maintained, modern amenities. Good connectivity. Contact: 9898721987
+[04/01/2024, 11:40:27] Commercial Expert: Office in Andheri West. 1400 sqft, 95k rent. IT park, fiber internet, parking. Ideal for IT company. WhatsApp: 9811121987
+[04/01/2024, 12:55:33] Property Agent: 4BHK in Powai. 3000 sqft, 6Cr. Luxury apartment, clubhouse, swimming pool. Premium society. Call: 9822221987
+[04/01/2024, 13:50:18] Rental Agent: 1RK in Lokhandwala. 380 sqft, 20k rent. Basic furniture, all utilities. Good for students. Contact: 9833321987
+[04/01/2024, 14:45:42] Budget Dealer: 2BHK in Kandivali East. 850 sqft, 43k rent. 3rd floor, quiet area. Security: 2 months. Call: 9844421987
+[04/01/2024, 15:30:27] Luxury Dealer: 3BHK in Juhu. 2600 sqft, 4.2Cr sale. Beach facing, premium finishes, modern kitchen. Exclusive: 9855521987
+[04/01/2024, 16:25:33] Office Specialist: Commercial in Lower Parel. 1800 sqft, 1.1L rent. Premium building, reception, meeting room. Corporate: 9866621987
+[04/01/2024, 17:40:18] Resale Dealer: 2BHK in Malad West. 900 sqft, 1.05Cr. 5 years old, good condition. Loan available. Contact: 9877721987
+[04/01/2024, 18:35:42] Rental Network: 3BHK in Andheri East. 1350 sqft, 72k rent. Fully furnished, all appliances. Family only. WhatsApp: 9888821987
+[04/01/2024, 19:20:27] New Project: 1BHK in Thane East. 680 sqft, 78L. Under construction, possession 10 months. RERA registered. Booking: 9899921987
+[04/01/2024, 20:15:33] Industrial: Warehouse in Bhiwandi. 6000 sqft, 2.5L rent. G+2, heavy power, security. Industrial area. Owner: 9812332987
+[04/01/2024, 21:10:18] Premium: 4BHK in Worli. 3300 sqft, 8.8Cr. Sea facing, private terrace, luxury amenities. Ultra premium. Agent: 9823432987
+[05/01/2024, 08:25:42] Property Dealer: 2BHK available in Goregaon East. 950 sqft, 53k rent. 2nd floor, corner location. Good society. Contact: 9876532987
+[05/01/2024, 09:40:33] Broker: 3BHK in Chembur West. 1250 sqft, 1.75Cr sale. Ready to move, well maintained. Near station. Call: 9898732987
+[05/01/2024, 10:55:27] Real Estate: 1BHK in Borivali West. 620 sqft, 36k rent. 1st floor, renovated. Good for family. WhatsApp: 9811132987
+[05/01/2024, 11:50:18] Service: 3BHK service in South Mumbai. 1900 sqft, 1.65L rent. All inclusive, premium service. Minimum 1 year: 9822232987
+[05/01/2024, 12:45:42] PG: 1RK PG in Andheri East. 320 sqft, 16k with food. AC, attached bath, Wi-Fi. Professionals only. Contact: 9833332987
+[05/01/2024, 13:30:27] Farmhouse: Farmhouse in Lonavala. 4 acre, 4.5Cr. 5 bedrooms, mountain view, pool. Weekend getaway. Call: 9844432987
+[05/01/2024, 14:25:33] Auction: 2BHK auction in Kharghar. 1050 sqft, 88L. Bank property, clear title. Good potential. WhatsApp: 9855532987
+[05/01/2024, 15:40:18] Premium: 3BHK in Seawoods. 1750 sqft, 3.1Cr. High floor, sea view, premium amenities. Ready: 9866632987
+[05/01/2024, 16:35:42] Commercial: Shop in Vashi. 550 sqft, 80k rent. Prime location, good visibility. Established market. Contact: 9877732987
+[05/01/2024, 17:20:27] Property: 1BHK in Santacruz. 520 sqft, 38k rent. 3rd floor, semi-furnished. Near airport. Call: 9888832987
+[05/01/2024, 18:15:33] Broker: 2BHK in Vile Parle. 780 sqft, 48k rent. Ground floor, separate entrance. Good for clinic. WhatsApp: 9899932987
+[05/01/2024, 19:10:18] Real Estate: 3BHK in Bandra. 1700 sqft, 2.4Cr sale. Renovated, modern kitchen, 3 bathrooms. Premium: 9812343987
+[06/01/2024, 08:35:42] Commercial: Office in Andheri. 1300 sqft, 88k rent. IT park, modern facilities. Suitable for startup. Contact: 9823443987
+[06/01/2024, 09:50:33] Property: 4BHK in Powai. 2900 sqft, 5.8Cr. Luxury apartment, all amenities. Premium society. Call: 9876543987
+[06/01/2024, 10:45:27] Rental: 1RK in Lokhandwala. 420 sqft, 23k rent. Fully furnished, all utilities. Good for professionals. WhatsApp: 9898743987
+[06/01/2024, 11:40:18] Budget: 2BHK in Kandivali. 880 sqft, 44k rent. 4th floor, park view. Family preferred. Contact: 9811143987
+[06/01/2024, 12:35:42] Luxury: 3BHK in Juhu. 2500 sqft, 4Cr sale. Beach facing, premium finishes. Exclusive location. Call: 9822243987
+[06/01/2024, 13:30:27] Office: Commercial in Lower Parel. 1600 sqft, 1.05L rent. Premium building, all facilities. Corporate standards. WhatsApp: 9833343987
+[06/01/2024, 14:25:33] Resale: 2BHK in Malad. 920 sqft, 1.02Cr. 6 years old, good condition. Loan available. Contact: 9844443987
+[06/01/2024, 15:40:18] Rental: 3BHK in Andheri. 1400 sqft, 75k rent. Fully furnished, modern appliances. Family only. Call: 9855543987
+[06/01/2024, 16:35:42] New Project: 1BHK in Thane. 670 sqft, 76L. Under construction, possession 9 months. RERA approved. Booking: 9866643987
+[06/01/2024, 17:20:27] Industrial: Warehouse in Bhiwandi. 7000 sqft, 2.8L rent. G+1, heavy power, security. Industrial zone. Owner: 9877743987
+[06/01/2024, 18:15:33] Premium: 4BHK in Worli. 3400 sqft, 9.2Cr. Sea facing, luxury amenities, 4 parking. Ultra premium. Agent: 9888843987
+[06/01/2024, 19:10:18] Commercial: Retail in Bandra. 450 sqft, 85k rent. High street, good footfall. Established location. WhatsApp: 9899943987
+[06/01/2024, 20:05:42] Property: 2BHK in Goregaon. 970 sqft, 54k rent. 3rd floor, corner flat. Good society. Contact: 9812354987
+[07/01/2024, 08:20:33] Broker: 3BHK in Chembur. 1280 sqft, 1.72Cr sale. Ready to move, well maintained. Near highway. Call: 9823454987
+[07/01/2024, 09:35:27] Real Estate: 1BHK in Borivali. 640 sqft, 37k rent. 2nd floor, renovated. Good for family. WhatsApp: 9876554987
+[07/01/2024, 10:50:18] Service: 3BHK service in South Mumbai. 1950 sqft, 1.7L rent. All inclusive, premium service. Minimum 1 year: 9898754987
+[07/01/2024, 11:45:42] PG: 1RK PG in Andheri. 340 sqft, 17k with food. AC, attached bath, Wi-Fi. Professionals only. Contact: 9811154987
+[07/01/2024, 12:40:27] Farmhouse: Farmhouse in Karjat. 3.5 acre, 3.8Cr. 4 bedrooms, organic farm, pool. Peaceful location. Call: 9822254987
+[07/01/2024, 13:35:33] Auction: 2BHK auction in Panvel. 1080 sqft, 92L. Bank property, clear title. Good investment. WhatsApp: 9833354987
+[07/01/2024, 14:30:18] Premium: 3BHK in Seawoods. 1780 sqft, 3.15Cr. High floor, sea view, premium amenities. Ready: 9844454987
+[07/01/2024, 15:25:42] Commercial: Shop in Vashi. 580 sqft, 82k rent. Prime location, good visibility. Established market. Contact: 9855554987
+[07/01/2024, 16:40:33] Property: 1BHK in Santacruz. 540 sqft, 39k rent. 4th floor, semi-furnished. Near airport. Call: 9866654987
+[07/01/2024, 17:35:27] Broker: 2BHK in Vile Parle. 820 sqft, 50k rent. 1st floor, separate entrance. Good for office. WhatsApp: 9877754987
+[07/01/2024, 18:50:18] Real Estate: 3BHK in Bandra. 1750 sqft, 2.45Cr sale. Renovated, modern kitchen, 3 bathrooms. Premium: 9888854987
+[07/01/2024, 19:45:42] Commercial: Office in Andheri. 1350 sqft, 92k rent. IT park, modern facilities. Suitable for IT company. Contact: 9899954987
+[08/01/2024, 08:30:33] Property: 4BHK in Powai. 2950 sqft, 5.9Cr. Luxury apartment, all amenities. Premium society. Call: 9812365987
+[08/01/2024, 09:45:27] Rental: 1RK in Lokhandwala. 440 sqft, 24k rent. Fully furnished, all utilities. Good for professionals. WhatsApp: 9823465987
+[08/01/2024, 10:40:18] Budget: 2BHK in Kandivali. 900 sqft, 45k rent. 5th floor, park view. Family preferred. Contact: 9876565987
+[08/01/2024, 11:35:42] Luxury: 3BHK in Juhu. 2550 sqft, 4.1Cr sale. Beach facing, premium finishes. Exclusive location. Call: 9898765987
+[08/01/2024, 12:50:33] Office: Commercial in Lower Parel. 1650 sqft, 1.08L rent. Premium building, all facilities. Corporate standards. WhatsApp: 9811165987
+[08/01/2024, 13:45:27] Resale: 2BHK in Malad. 940 sqft, 1.04Cr. 7 years old, good condition. Loan available. Contact: 9822265987
+[08/01/2024, 14:40:18] Rental: 3BHK in Andheri. 1420 sqft, 76k rent. Fully furnished, modern appliances. Family only. Call: 9833365987
+[08/01/2024, 15:35:42] New Project: 1BHK in Thane. 690 sqft, 77L. Under construction, possession 8 months. RERA approved. Booking: 9844465987
+[08/01/2024, 16:50:33] Industrial: Warehouse in Bhiwandi. 7500 sqft, 2.9L rent. G+2, heavy power, security. Industrial zone. Owner: 9855565987
+[08/01/2024, 17:45:27] Premium: 4BHK in Worli. 3450 sqft, 9.4Cr. Sea facing, luxury amenities, 4 parking. Ultra premium. Agent: 9866665987
+[08/01/2024, 18:40:18] Commercial: Retail in Bandra. 480 sqft, 87k rent. High street, good footfall. Established location. WhatsApp: 9877765987
+[08/01/2024, 19:35:42] Property: 2BHK in Goregaon. 980 sqft, 55k rent. 4th floor, corner flat. Good society. Contact: 9888865987
+[09/01/2024, 08:25:33] Broker: 3BHK in Chembur. 1300 sqft, 1.7Cr sale. Ready to move, well maintained. Near station. Call: 9899965987
+[09/01/2024, 09:40:27] Real Estate: 1BHK in Borivali. 660 sqft, 38k rent. 3rd floor, renovated. Good for family. WhatsApp: 9812376987
+[09/01/2024, 10:55:18] Service: 3BHK service in South Mumbai. 1980 sqft, 1.72L rent. All inclusive, premium service. Minimum 1 year: 9823476987
+[09/01/2024, 11:50:42] PG: 1RK PG in Andheri. 360 sqft, 18k with food. AC, attached bath, Wi-Fi. Professionals only. Contact: 9876576987
+[09/01/2024, 12:45:33] Farmhouse: Farmhouse in Lonavala. 4.5 acre, 4.8Cr. 5 bedrooms, mountain view, pool. Weekend getaway. Call: 9898776987
+[09/01/2024, 13:40:27] Auction: 2BHK auction in Kharghar. 1100 sqft, 95L. Bank property, clear title. Good potential. WhatsApp: 9811176987
+[09/01/2024, 14:35:18] Premium: 3BHK in Seawoods. 1800 sqft, 3.2Cr. High floor, sea view, premium amenities. Ready: 9822276987
+[09/01/2024, 15:30:42] Commercial: Shop in Vashi. 600 sqft, 83k rent. Prime location, good visibility. Established market. Contact: 9833376987
+[09/01/2024, 16:45:33] Property: 1BHK in Santacruz. 560 sqft, 40k rent. 5th floor, semi-furnished. Near airport. Call: 9844476987
+[09/01/2024, 17:40:27] Broker: 2BHK in Vile Parle. 840 sqft, 51k rent. 2nd floor, separate entrance. Good for clinic. WhatsApp: 9855576987
+[09/01/2024, 18:35:18] Real Estate: 3BHK in Bandra. 1780 sqft, 2.5Cr sale. Renovated, modern kitchen, 3 bathrooms. Premium: 9866676987
+[10/01/2024, 08:15:42] Commercial: Office in Andheri. 1400 sqft, 95k rent. IT park, modern facilities. Suitable for startup. Contact: 9877776987
+[10/01/2024, 09:30:33] Property: 4BHK in Powai. 3000 sqft, 6Cr. Luxury apartment, all amenities. Premium society. Call: 9888876987
+[10/01/2024, 10:45:27] Rental: 1RK in Lokhandwala. 460 sqft, 25k rent. Fully furnished, all utilities. Good for professionals. WhatsApp: 9899976987
+[10/01/2024, 11:40:18] Budget: 2BHK in Kandivali. 920 sqft, 46k rent. 6th floor, park view. Family preferred. Contact: 9812387987
+[10/01/2024, 12:35:42] Luxury: 3BHK in Juhu. 2600 sqft, 4.2Cr sale. Beach facing, premium finishes. Exclusive location. Call: 9823487987
+[10/01/2024, 13:30:33] Office: Commercial in Lower Parel. 1700 sqft, 1.1L rent. Premium building, all facilities. Corporate standards. WhatsApp: 9876587987
+[10/01/2024, 14:25:27] Resale: 2BHK in Malad. 960 sqft, 1.06Cr. 8 years old, good condition. Loan available. Contact: 9898787987
+[10/01/2024, 15:40:18] Rental: 3BHK in Andheri. 1440 sqft, 77k rent. Fully furnished, modern appliances. Family only. Call: 9811187987
+[10/01/2024, 16:35:42] New Project: 1BHK in Thane. 700 sqft, 78L. Under construction, possession 7 months. RERA approved. Booking: 9822287987
+[10/01/2024, 17:20:33] Industrial: Warehouse in Bhiwandi. 8000 sqft, 3L rent. G+3, heavy power, security. Industrial zone. Owner: 9833387987
+[10/01/2024, 18:15:27] Premium: 4BHK in Worli. 3500 sqft, 9.6Cr. Sea facing, luxury amenities, 4 parking. Ultra premium. Agent: 9844487987
+[10/01/2024, 19:10:42] Commercial: Retail in Bandra. 500 sqft, 88k rent. High street, good footfall. Established location. WhatsApp: 9855587987
+[11/01/2024, 08:40:33] Property: 2BHK in Goregaon. 990 sqft, 56k rent. 5th floor, corner flat. Good society. Contact: 9866687987
+[11/01/2024, 09:55:27] Broker: 3BHK in Chembur. 1320 sqft, 1.68Cr sale. Ready to move, well maintained. Near highway. Call: 9877787987
+[11/01/2024, 10:50:18] Real Estate: 1BHK in Borivali. 680 sqft, 39k rent. 4th floor, renovated. Good for family. WhatsApp: 9888887987
+[11/01/2024, 11:45:42] Service: 3BHK service in South Mumbai. 2000 sqft, 1.75L rent. All inclusive, premium service. Minimum 1 year: 9899987987
+[11/01/2024, 12:40:33] PG: 1RK PG in Andheri. 380 sqft, 19k with food. AC, attached bath, Wi-Fi. Professionals only. Contact: 9812398987
+[11/01/2024, 13:35:27] Farmhouse: Farmhouse in Karjat. 5 acre, 5.2Cr. 5 bedrooms, organic farm, pool. Peaceful location. Call: 9823498987
+[11/01/2024, 14:30:18] Auction: 2BHK auction in Panvel. 1120 sqft, 98L. Bank property, clear title. Good investment. WhatsApp: 9876598987
+[11/01/2024, 15:25:42] Premium: 3BHK in Seawoods. 1820 sqft, 3.25Cr. High floor, sea view, premium amenities. Ready: 9898798987
+[11/01/2024, 16:40:33] Commercial: Shop in Vashi. 620 sqft, 84k rent. Prime location, good visibility. Established market. Contact: 9811198987
+[11/01/2024, 17:35:27] Property: 1BHK in Santacruz. 580 sqft, 41k rent. 6th floor, semi-furnished. Near airport. Call: 9822298987
+[11/01/2024, 18:50:18] Broker: 2BHK in Vile Parle. 860 sqft, 52k rent. 3rd floor, separate entrance. Good for office. WhatsApp: 9833398987
+[12/01/2024, 08:25:42] Real Estate: 3BHK in Bandra. 1800 sqft, 2.55Cr sale. Renovated, modern kitchen, 3 bathrooms. Premium: 9844498987
+[12/01/2024, 09:40:33] Commercial: Office in Andheri. 1450 sqft, 98k rent. IT park, modern facilities. Suitable for IT company. Contact: 9855598987
+[12/01/2024, 10:35:27] Property: 4BHK in Powai. 3050 sqft, 6.1Cr. Luxury apartment, all amenities. Premium society. Call: 9866698987
+[12/01/2024, 11:30:18] Rental: 1RK in Lokhandwala. 480 sqft, 26k rent. Fully furnished, all utilities. Good for professionals. WhatsApp: 9877798987
+I'll generate another 600+ WhatsApp real estate messages to create a comprehensive dataset of 1200+ total messages:
+
+```txt
+[12/01/2024, 12:45:42] Budget Homes: 2BHK in Kandivali West. 940 sqft, 47k rent. 7th floor, park facing. Family preferred. Security: 2 months. Call: 9888898987
+[12/01/2024, 13:40:33] Luxury Properties: 3BHK duplex in Juhu. 2650 sqft, 4.3Cr sale. Private terrace, premium finishes. Exclusive location. Agent: 9899998987
+[12/01/2024, 14:35:27] Office Spaces: Commercial space in Lower Parel. 1750 sqft, 1.12L rent. Premium building, meeting rooms. Corporate standards. Contact: 9812312346
+[12/01/2024, 15:50:18] Resale Network: 2BHK resale in Malad East. 980 sqft, 1.08Cr. 9 years old, well maintained. Loan available. WhatsApp: 9823412346
+[12/01/2024, 16:45:42] Rental Services: 3BHK furnished in Andheri West. 1460 sqft, 78k rent. All modern appliances. Family only. Call: 9876512346
+[12/01/2024, 17:30:33] New Launch: 1BHK in Thane West. 720 sqft, 79L. Under construction, possession 6 months. RERA approved. Booking: 9898712346
+[12/01/2024, 18:25:27] Industrial Dealer: Warehouse in Bhiwandi. 8500 sqft, 3.1L rent. G+4, heavy power. Industrial zone. Owner: 9811112346
+[12/01/2024, 19:20:42] Premium Homes: 4BHK penthouse in Worli. 3550 sqft, 9.8Cr. Sea facing, luxury amenities. Ultra premium. Agent: 9822212346
+[12/01/2024, 20:15:33] Commercial Expert: Retail shop in Bandra West. 520 sqft, 89k rent. High street location. Established market. Contact: 9833312346
+[13/01/2024, 08:35:27] Property Dealer: 2BHK available in Goregaon West. 1000 sqft, 57k rent. 6th floor, corner location. Good society. Call: 9844412346
+[13/01/2024, 09:50:18] Broker Network: 3BHK in Chembur East. 1340 sqft, 1.65Cr sale. Ready to move, well maintained. Near station. WhatsApp: 9855512346
+[13/01/2024, 10:45:42] Real Estate Group: 1BHK in Borivali East. 700 sqft, 40k rent. 5th floor, renovated. Good for family. Contact: 9866612346
+[13/01/2024, 11:40:33] Service Provider: 3BHK service apartment in South Mumbai. 2050 sqft, 1.78L rent. All inclusive, daily housekeeping. Minimum 6 months: 9877712346
+[13/01/2024, 12:55:27] PG Services: 1RK PG in Andheri East. 400 sqft, 20k with food. AC room, attached bathroom. Working professionals preferred. Call: 9888812346
+[13/01/2024, 13:50:18] Farmhouse Agent: Farmhouse in Lonavala. 5.5 acre, 5.5Cr. 6 bedrooms, mountain view, swimming pool. Peaceful location. Contact: 9899912346
+[13/01/2024, 14:45:42] Auction Specialist: 2BHK auction in Kharghar. 1150 sqft, 1.02Cr. Bank auction, clear title. Good investment opportunity. WhatsApp: 9812323456
+[13/01/2024, 15:30:33] Premium Properties: 3BHK in Seawoods. 1850 sqft, 3.3Cr. Premium location, high floor, sea view. Ready possession. Owner: 9823423456
+[13/01/2024, 16:25:27] Mall Space: Commercial in Vashi mall. 650 sqft, 85k rent. Second floor, good visibility. Established footfall. Investment: 9876523456
+[13/01/2024, 17:40:18] Property Expert: 1BHK in Santacruz West. 600 sqft, 42k rent. 7th floor, renovated. Near station. Contact: 9898723456
+[13/01/2024, 18:35:42] Broker Partner: 2BHK in Vile Parle West. 880 sqft, 53k rent. Semi-furnished, good locality. Family preferred. Call: 9811123456
+[14/01/2024, 08:20:33] Real Estate Pro: 3BHK in Bandra East. 1850 sqft, 2.6Cr sale. Well maintained, modern amenities. Good connectivity. Contact: 9822223456
+[14/01/2024, 09:35:27] Commercial Expert: Office in Andheri West. 1500 sqft, 1L rent. IT park, fiber internet, parking. Ideal for IT company. WhatsApp: 9833323456
+[14/01/2024, 10:50:18] Property Agent: 4BHK in Powai. 3100 sqft, 6.2Cr. Luxury apartment, clubhouse, swimming pool. Premium society. Call: 9844423456
+[14/01/2024, 11:45:42] Rental Agent: 1RK in Lokhandwala. 500 sqft, 27k rent. Basic furniture, all utilities. Good for students. Contact: 9855523456
+[14/01/2024, 12:40:33] Budget Dealer: 2BHK in Kandivali East. 960 sqft, 48k rent. 8th floor, quiet area. Security: 2 months. Call: 9866623456
+[14/01/2024, 13:35:27] Luxury Dealer: 3BHK in Juhu. 2700 sqft, 4.4Cr sale. Beach facing, premium finishes, modern kitchen. Exclusive: 9877723456
+[14/01/2024, 14:50:18] Office Specialist: Commercial in Lower Parel. 1800 sqft, 1.15L rent. Premium building, reception, meeting room. Corporate: 9888823456
+[14/01/2024, 15:45:42] Resale Dealer: 2BHK in Malad West. 1000 sqft, 1.1Cr. 10 years old, good condition. Loan available. Contact: 9899923456
+[14/01/2024, 16:30:33] Rental Network: 3BHK in Andheri East. 1480 sqft, 79k rent. Fully furnished, all appliances. Family only. WhatsApp: 9812334567
+[14/01/2024, 17:25:27] New Project: 1BHK in Thane East. 740 sqft, 80L. Under construction, possession 5 months. RERA registered. Booking: 9823434567
+[14/01/2024, 18:20:42] Industrial: Warehouse in Bhiwandi. 9000 sqft, 3.2L rent. G+5, heavy power, security. Industrial area. Owner: 9876534567
+[15/01/2024, 08:45:33] Premium: 4BHK in Worli. 3600 sqft, 10Cr. Sea facing, private terrace, luxury amenities. Ultra premium. Agent: 9898734567
+[15/01/2024, 09:40:27] Commercial: Retail in Bandra. 540 sqft, 90k rent. High street, good footfall. Established location. Contact: 9811134567
+[15/01/2024, 10:55:18] Property: 2BHK in Goregaon East. 1020 sqft, 58k rent. 7th floor, corner location. Good society. Call: 9822234567
+[15/01/2024, 11:50:42] Broker: 3BHK in Chembur West. 1360 sqft, 1.62Cr sale. Ready to move, well maintained. Near station. WhatsApp: 9833334567
+[15/01/2024, 12:45:33] Real Estate: 1BHK in Borivali West. 720 sqft, 41k rent. 6th floor, renovated. Good for family. Contact: 9844434567
+[15/01/2024, 13:40:27] Service: 3BHK service in South Mumbai. 2100 sqft, 1.8L rent. All inclusive, premium service. Minimum 1 year: 9855534567
+[15/01/2024, 14:55:18] PG: 1RK PG in Andheri East. 420 sqft, 21k with food. AC, attached bath, Wi-Fi. Professionals only. Call: 9866634567
+[15/01/2024, 15:50:42] Farmhouse: Farmhouse in Karjat. 6 acre, 5.8Cr. 6 bedrooms, organic farm, pool. Peaceful location. Contact: 9877734567
+[15/01/2024, 16:35:33] Auction: 2BHK auction in Panvel. 1180 sqft, 1.05Cr. Bank property, clear title. Good potential. WhatsApp: 9888834567
+[15/01/2024, 17:30:27] Premium: 3BHK in Seawoods. 1880 sqft, 3.35Cr. High floor, sea view, premium amenities. Ready: 9899934567
+[15/01/2024, 18:25:42] Commercial: Shop in Vashi. 680 sqft, 86k rent. Prime location, good visibility. Established market. Contact: 9812345678
+[16/01/2024, 08:30:33] Property: 1BHK in Santacruz. 620 sqft, 43k rent. 8th floor, semi-furnished. Near airport. Call: 9823445678
+[16/01/2024, 09:45:27] Broker: 2BHK in Vile Parle. 900 sqft, 54k rent. 4th floor, separate entrance. Good for clinic. WhatsApp: 9876545678
+[16/01/2024, 10:40:18] Real Estate: 3BHK in Bandra. 1900 sqft, 2.65Cr sale. Renovated, modern kitchen, 3 bathrooms. Premium: 9898745678
+[16/01/2024, 11:35:42] Commercial: Office in Andheri. 1550 sqft, 1.02L rent. IT park, modern facilities. Suitable for startup. Contact: 9811145678
+[16/01/2024, 12:50:33] Property: 4BHK in Powai. 3150 sqft, 6.3Cr. Luxury apartment, all amenities. Premium society. Call: 9822245678
+[16/01/2024, 13:45:27] Rental: 1RK in Lokhandwala. 520 sqft, 28k rent. Fully furnished, all utilities. Good for professionals. WhatsApp: 9833345678
+[16/01/2024, 14:40:18] Budget: 2BHK in Kandivali. 980 sqft, 49k rent. 9th floor, park view. Family preferred. Contact: 9844445678
+[16/01/2024, 15:35:42] Luxury: 3BHK in Juhu. 2750 sqft, 4.5Cr sale. Beach facing, premium finishes. Exclusive location. Call: 9855545678
+[16/01/2024, 16:50:33] Office: Commercial in Lower Parel. 1850 sqft, 1.18L rent. Premium building, all facilities. Corporate standards. WhatsApp: 9866645678
+[16/01/2024, 17:45:27] Resale: 2BHK in Malad. 1020 sqft, 1.12Cr. 11 years old, good condition. Loan available. Contact: 9877745678
+[17/01/2024, 08:25:42] Rental: 3BHK in Andheri. 1500 sqft, 80k rent. Fully furnished, modern appliances. Family only. Call: 9888845678
+[17/01/2024, 09:40:33] New Project: 1BHK in Thane. 760 sqft, 81L. Under construction, possession 4 months. RERA approved. Booking: 9899945678
+[17/01/2024, 10:35:27] Industrial: Warehouse in Bhiwandi. 9500 sqft, 3.3L rent. G+6, heavy power, security. Industrial zone. Owner: 9812356789
+[17/01/2024, 11:30:18] Premium: 4BHK in Worli. 3650 sqft, 10.2Cr. Sea facing, luxury amenities, 4 parking. Ultra premium. Agent: 9823456789
+[17/01/2024, 12:25:42] Commercial: Retail in Bandra. 560 sqft, 91k rent. High street, good footfall. Established location. WhatsApp: 9876556789
+[17/01/2024, 13:40:33] Property: 2BHK in Goregaon. 1040 sqft, 59k rent. 8th floor, corner flat. Good society. Contact: 9898756789
+[17/01/2024, 14:35:27] Broker: 3BHK in Chembur. 1380 sqft, 1.6Cr sale. Ready to move, well maintained. Near highway. Call: 9811156789
+[17/01/2024, 15:50:18] Real Estate: 1BHK in Borivali. 740 sqft, 42k rent. 7th floor, renovated. Good for family. WhatsApp: 9822256789
+[17/01/2024, 16:45:42] Service: 3BHK service in South Mumbai. 2150 sqft, 1.82L rent. All inclusive, premium service. Minimum 1 year: 9833356789
+[17/01/2024, 17:30:33] PG: 1RK PG in Andheri. 440 sqft, 22k with food. AC, attached bath, Wi-Fi. Professionals only. Contact: 9844456789
+[18/01/2024, 08:35:27] Farmhouse: Farmhouse in Lonavala. 6.5 acre, 6.1Cr. 7 bedrooms, mountain view, pool. Weekend getaway. Call: 9855556789
+[18/01/2024, 09:50:18] Auction: 2BHK auction in Kharghar. 1200 sqft, 1.08Cr. Bank property, clear title. Good investment. WhatsApp: 9866656789
+[18/01/2024, 10:45:42] Premium: 3BHK in Seawoods. 1900 sqft, 3.4Cr. High floor, sea view, premium amenities. Ready: 9877756789
+[18/01/2024, 11:40:33] Commercial: Shop in Vashi. 700 sqft, 87k rent. Prime location, good visibility. Established market. Contact: 9888856789
+[18/01/2024, 12:35:27] Property: 1BHK in Santacruz. 640 sqft, 44k rent. 9th floor, semi-furnished. Near airport. Call: 9899956789
+[18/01/2024, 13:50:18] Broker: 2BHK in Vile Parle. 920 sqft, 55k rent. 5th floor, separate entrance. Good for office. WhatsApp: 9812367890
+[18/01/2024, 14:45:42] Real Estate: 3BHK in Bandra. 1950 sqft, 2.7Cr sale. Renovated, modern kitchen, 3 bathrooms. Premium: 9823467890
+[18/01/2024, 15:30:33] Commercial: Office in Andheri. 1600 sqft, 1.05L rent. IT park, modern facilities. Suitable for IT company. Contact: 9876567890
+[18/01/2024, 16:25:27] Property: 4BHK in Powai. 3200 sqft, 6.4Cr. Luxury apartment, all amenities. Premium society. Call: 9898767890
+[19/01/2024, 08:40:18] Rental: 1RK in Lokhandwala. 540 sqft, 29k rent. Fully furnished, all utilities. Good for professionals. WhatsApp: 9811167890
+[19/01/2024, 09:35:42] Budget: 2BHK in Kandivali. 1000 sqft, 50k rent. 10th floor, park view. Family preferred. Contact: 9822267890
+[19/01/2024, 10:50:33] Luxury: 3BHK in Juhu. 2800 sqft, 4.6Cr sale. Beach facing, premium finishes. Exclusive location. Call: 9833367890
+[19/01/2024, 11:45:27] Office: Commercial in Lower Parel. 1900 sqft, 1.2L rent. Premium building, all facilities. Corporate standards. WhatsApp: 9844467890
+[19/01/2024, 12:40:18] Resale: 2BHK in Malad. 1040 sqft, 1.14Cr. 12 years old, good condition. Loan available. Contact: 9855567890
+[19/01/2024, 13:35:42] Rental: 3BHK in Andheri. 1520 sqft, 81k rent. Fully furnished, modern appliances. Family only. Call: 9866667890
+[19/01/2024, 14:50:33] New Project: 1BHK in Thane. 780 sqft, 82L. Under construction, possession 3 months. RERA approved. Booking: 9877767890
+[19/01/2024, 15:45:27] Industrial: Warehouse in Bhiwandi. 10000 sqft, 3.4L rent. G+7, heavy power, security. Industrial zone. Owner: 9888867890
+[20/01/2024, 08:25:42] Premium: 4BHK in Worli. 3700 sqft, 10.4Cr. Sea facing, luxury amenities, 4 parking. Ultra premium. Agent: 9899967890
+[20/01/2024, 09:40:33] Commercial: Retail in Bandra. 580 sqft, 92k rent. High street, good footfall. Established location. Contact: 9812378901
+[20/01/2024, 10:35:27] Property: 2BHK in Goregaon. 1060 sqft, 60k rent. 9th floor, corner location. Good society. Call: 9823478901
+[20/01/2024, 11:30:18] Broker: 3BHK in Chembur. 1400 sqft, 1.58Cr sale. Ready to move, well maintained. Near station. WhatsApp: 9876578901
+[20/01/2024, 12:25:42] Real Estate: 1BHK in Borivali. 760 sqft, 43k rent. 8th floor, renovated. Good for family. Contact: 9898778901
+[20/01/2024, 13:40:33] Service: 3BHK service in South Mumbai. 2200 sqft, 1.85L rent. All inclusive, premium service. Minimum 1 year: 9811178901
+[20/01/2024, 14:35:27] PG: 1RK PG in Andheri. 460 sqft, 23k with food. AC, attached bath, Wi-Fi. Professionals only. Call: 9822278901
+[20/01/2024, 15:50:18] Farmhouse: Farmhouse in Karjat. 7 acre, 6.4Cr. 7 bedrooms, organic farm, pool. Peaceful location. WhatsApp: 9833378901
+[20/01/2024, 16:45:42] Auction: 2BHK auction in Panvel. 1220 sqft, 1.1Cr. Bank property, clear title. Good potential. Contact: 9844478901
+[21/01/2024, 08:30:33] Premium: 3BHK in Seawoods. 1920 sqft, 3.45Cr. High floor, sea view, premium amenities. Ready: 9855578901
+[21/01/2024, 09:45:27] Commercial: Shop in Vashi. 720 sqft, 88k rent. Prime location, good visibility. Established market. Call: 9866678901
+[21/01/2024, 10:40:18] Property: 1BHK in Santacruz. 660 sqft, 45k rent. 10th floor, semi-furnished. Near airport. WhatsApp: 9877778901
+[21/01/2024, 11:35:42] Broker: 2BHK in Vile Parle. 940 sqft, 56k rent. 6th floor, separate entrance. Good for clinic. Contact: 9888878901
+[21/01/2024, 12:50:33] Real Estate: 3BHK in Bandra. 2000 sqft, 2.75Cr sale. Renovated, modern kitchen, 3 bathrooms. Premium: 9899978901
+[21/01/2024, 13:45:27] Commercial: Office in Andheri. 1650 sqft, 1.08L rent. IT park, modern facilities. Suitable for startup. Call: 9812389012
+[21/01/2024, 14:40:18] Property: 4BHK in Powai. 3250 sqft, 6.5Cr. Luxury apartment, all amenities. Premium society. WhatsApp: 9823489012
+[21/01/2024, 15:35:42] Rental: 1RK in Lokhandwala. 560 sqft, 30k rent. Fully furnished, all utilities. Good for professionals. Contact: 9876589012
+[22/01/2024, 08:25:27] Budget: 2BHK in Kandivali. 1020 sqft, 51k rent. 11th floor, park view. Family preferred. Call: 9898789012
+[22/01/2024, 09:40:18] Luxury: 3BHK in Juhu. 2850 sqft, 4.7Cr sale. Beach facing, premium finishes. Exclusive location. WhatsApp: 9811189012
+[22/01/2024, 10:35:42] Office: Commercial in Lower Parel. 1950 sqft, 1.22L rent. Premium building, all facilities. Corporate standards. Contact: 9822289012
+[22/01/2024, 11:30:33] Resale: 2BHK in Malad. 1060 sqft, 1.16Cr. 13 years old, good condition. Loan available. Call: 9833389012
+[22/01/2024, 12:25:27] Rental: 3BHK in Andheri. 1540 sqft, 82k rent. Fully furnished, modern appliances. Family only. WhatsApp: 9844489012
+[22/01/2024, 13:40:18] New Project: 1BHK in Thane. 800 sqft, 83L. Under construction, possession 2 months. RERA approved. Booking: 9855589012
+[22/01/2024, 14:35:42] Industrial: Warehouse in Bhiwandi. 10500 sqft, 3.5L rent. G+8, heavy power, security. Industrial zone. Owner: 9866689012
+[22/01/2024, 15:50:33] Premium: 4BHK in Worli. 3750 sqft, 10.6Cr. Sea facing, luxury amenities, 4 parking. Ultra premium. Agent: 9877789012
+[23/01/2024, 08:35:27] Commercial: Retail in Bandra. 600 sqft, 93k rent. High street, good footfall. Established location. Contact: 9888889012
+[23/01/2024, 09:40:18] Property: 2BHK in Goregaon. 1080 sqft, 61k rent. 10th floor, corner location. Good society. Call: 9899989012
+[23/01/2024, 10:45:42] Broker: 3BHK in Chembur. 1420 sqft, 1.55Cr sale. Ready to move, well maintained. Near highway. WhatsApp: 9812390123
+[23/01/2024, 11:50:33] Real Estate: 1BHK in Borivali. 780 sqft, 44k rent. 9th floor, renovated. Good for family. Contact: 9823490123
+[23/01/2024, 12:45:27] Service: 3BHK service in South Mumbai. 2250 sqft, 1.88L rent. All inclusive, premium service. Minimum 1 year: 9876590123
+[23/01/2024, 13:40:18] PG: 1RK PG in Andheri. 480 sqft, 24k with food. AC, attached bath, Wi-Fi. Professionals only. Call: 9898790123
+[23/01/2024, 14:35:42] Farmhouse: Farmhouse in Lonavala. 7.5 acre, 6.7Cr. 8 bedrooms, mountain view, pool. Weekend getaway. WhatsApp: 9811190123
+[23/01/2024, 15:50:33] Auction: 2BHK auction in Kharghar. 1250 sqft, 1.12Cr. Bank property, clear title. Good investment. Contact: 9822290123
+[24/01/2024, 08:25:27] Premium: 3BHK in Seawoods. 1950 sqft, 3.5Cr. High floor, sea view, premium amenities. Ready: 9833390123
+[24/01/2024, 09:40:18] Commercial: Shop in Vashi. 740 sqft, 89k rent. Prime location, good visibility. Established market. Call: 9844490123
+[24/01/2024, 10:35:42] Property: 1BHK in Santacruz. 680 sqft, 46k rent. 11th floor, semi-furnished. Near airport. WhatsApp: 9855590123
+[24/01/2024, 11:30:33] Broker: 2BHK in Vile Parle. 960 sqft, 57k rent. 7th floor, separate entrance. Good for office. Contact: 9866690123
+[24/01/2024, 12:25:27] Real Estate: 3BHK in Bandra. 2050 sqft, 2.8Cr sale. Renovated, modern kitchen, 3 bathrooms. Premium: 9877790123
+[24/01/2024, 13:40:18] Commercial: Office in Andheri. 1700 sqft, 1.1L rent. IT park, modern facilities. Suitable for IT company. Call: 9888890123
+[24/01/2024, 14:35:42] Property: 4BHK in Powai. 3300 sqft, 6.6Cr. Luxury apartment, all amenities. Premium society. WhatsApp: 9899990123
+[25/01/2024, 08:30:33] Rental: 1RK in Lokhandwala. 580 sqft, 31k rent. Fully furnished, all utilities. Good for professionals. Contact: 9812301234
+[25/01/2024, 09:45:27] Budget: 2BHK in Kandivali. 1040 sqft, 52k rent. 12th floor, park view. Family preferred. Call: 9823401234
+[25/01/2024, 10:40:18] Luxury: 3BHK in Juhu. 2900 sqft, 4.8Cr sale. Beach facing, premium finishes. Exclusive location. WhatsApp: 9876501234
+[25/01/2024, 11:35:42] Office: Commercial in Lower Parel. 2000 sqft, 1.25L rent. Premium building, all facilities. Corporate standards. Contact: 9898701234
+[25/01/2024, 12:50:33] Resale: 2BHK in Malad. 1080 sqft, 1.18Cr. 14 years old, good condition. Loan available. Call: 9811101234
+[25/01/2024, 13:45:27] Rental: 3BHK in Andheri. 1560 sqft, 83k rent. Fully furnished, modern appliances. Family only. WhatsApp: 9822201234
+[25/01/2024, 14:40:18] New Project: 1BHK in Thane. 820 sqft, 84L. Under construction, possession 1 month. RERA approved. Booking: 9833301234
+[25/01/2024, 15:35:42] Industrial: Warehouse in Bhiwandi. 11000 sqft, 3.6L rent. G+9, heavy power, security. Industrial zone. Owner: 9844401234
+[26/01/2024, 08:25:33] Premium: 4BHK in Worli. 3800 sqft, 10.8Cr. Sea facing, luxury amenities, 4 parking. Ultra premium. Agent: 9855501234
+[26/01/2024, 09:40:27] Commercial: Retail in Bandra. 620 sqft, 94k rent. High street, good footfall. Established location. Contact: 9866601234
+[26/01/2024, 10:35:18] Property: 2BHK in Goregaon. 1100 sqft, 62k rent. 11th floor, corner location. Good society. Call: 9877701234
+[26/01/2024, 11:30:42] Broker: 3BHK in Chembur. 1440 sqft, 1.52Cr sale. Ready to move, well maintained. Near station. WhatsApp: 9888801234
+[26/01/2024, 12:25:33] Real Estate: 1BHK in Borivali. 800 sqft, 45k rent. 10th floor, renovated. Good for family. Contact: 9899901234
+[26/01/2024, 13:40:27] Service: 3BHK service in South Mumbai. 2300 sqft, 1.9L rent. All inclusive, premium service. Minimum 1 year: 9812312345
+[26/01/2024, 14:35:18] PG: 1RK PG in Andheri. 500 sqft, 25k with food. AC, attached bath, Wi-Fi. Professionals only. Call: 9823412345
+[27/01/2024, 08:45:42] Farmhouse: Farmhouse in Karjat. 8 acre, 7Cr. 8 bedrooms, organic farm, pool. Peaceful location. WhatsApp: 9876512345
+[27/01/2024, 09:50:33] Auction: 2BHK auction in Panvel. 1280 sqft, 1.15Cr. Bank property, clear title. Good potential. Contact: 9898712345
+[27/01/2024, 10:45:27] Premium: 3BHK in Seawoods. 1980 sqft, 3.55Cr. High floor, sea view, premium amenities. Ready: 9811112345
+[27/01/2024, 11:40:18] Commercial: Shop in Vashi. 760 sqft, 90k rent. Prime location, good visibility. Established market. Call: 9822212345
+[27/01/2024, 12:35:42] Property: 1BHK in Santacruz. 700 sqft, 47k rent. 12th floor, semi-furnished. Near airport. WhatsApp: 9833312345
+[27/01/2024, 13:50:33] Broker: 2BHK in Vile Parle. 980 sqft, 58k rent. 8th floor, separate entrance. Good for clinic. Contact: 9844412345
+[27/01/2024, 14:45:27] Real Estate: 3BHK in Bandra. 2100 sqft, 2.85Cr sale. Renovated, modern kitchen, 3 bathrooms. Premium: 9855512345
+[28/01/2024, 08:30:18] Commercial: Office in Andheri. 1750 sqft, 1.12L rent. IT park, modern facilities. Suitable for startup. Call: 9866612345
+[28/01/2024, 09:35:42] Property: 4BHK in Powai. 3350 sqft, 6.7Cr. Luxury apartment, all amenities. Premium society. WhatsApp: 9877712345
+[28/01/2024, 10:40:33] Rental: 1RK in Lokhandwala. 600 sqft, 32k rent. Fully furnished, all utilities. Good for professionals. Contact: 9888812345
+[28/01/2024, 11:45:27] Budget: 2BHK in Kandivali. 1060 sqft, 53k rent. 13th floor, park view. Family preferred. Call: 9899912345
+[28/01/2024, 12:50:18] Luxury: 3BHK in Juhu. 2950 sqft, 4.9Cr sale. Beach facing, premium finishes. Exclusive location. WhatsApp: 9812323456
+[28/01/2024, 13:35:42] Office: Commercial in Lower Parel. 2050 sqft, 1.28L rent. Premium building, all facilities. Corporate
+
+[28/01/2024, 14:40:33] Resale Expert: 2BHK resale in Malad West. 1100 sqft, 1.2Cr. 15 years old, well maintained. Loan available from all banks. Contact: 9823423456
+[28/01/2024, 15:45:27] Rental Network: 3BHK furnished in Andheri East. 1580 sqft, 84k rent. All modern appliances, modular kitchen. Family only. Call: 9876523456
+[28/01/2024, 16:50:18] New Launch: 1BHK in Thane West. 840 sqft, 85L. Ready possession, RERA approved. Immediate booking. Builder direct: 9898723456
+[28/01/2024, 17:35:42] Industrial Properties: Warehouse in Bhiwandi. 11500 sqft, 3.7L rent. Heavy power, loading facility. Industrial zone. Owner: 9811123456
+[28/01/2024, 18:40:33] Premium Homes: 4BHK penthouse in Worli. 3850 sqft, 11Cr. Panoramic sea view, private pool, 4 parking. Ultra luxury. Agent: 9822223456
+[28/01/2024, 19:45:27] Commercial Specialist: Retail shop in Bandra West. 640 sqft, 95k rent. High street location, good footfall. Established market. Contact: 9833323456
+[29/01/2024, 08:25:42] Property Dealer: 2BHK in Goregaon East. 1120 sqft, 63k rent. 12th floor, corner flat. Society with amenities. Available: 9844423456
+[29/01/2024, 09:30:33] Broker Association: 3BHK in Chembur East. 1460 sqft, 1.5Cr sale. Ready to move, good condition. Near highway. Call: 9855523456
+[29/01/2024, 10:35:27] Real Estate: 1BHK in Borivali West. 820 sqft, 46k rent. 11th floor, separate entrance. Good for office. WhatsApp: 9866623456
+[29/01/2024, 11:40:18] Service Provider: 3BHK service apartment in South Mumbai. 2350 sqft, 1.92L rent. All inclusive, daily housekeeping. Minimum 6 months: 9877723456
+[29/01/2024, 12:45:42] PG Services: 1RK PG in Andheri West. 520 sqft, 26k with food. AC room, attached bathroom. Working professionals preferred. Contact: 9888823456
+[29/01/2024, 13:50:33] Farmhouse Agent: Farmhouse in Lonavala. 8.5 acre, 7.3Cr. 9 bedrooms, organic farm, swimming pool. Peaceful location. Call: 9899923456
+[29/01/2024, 14:35:27] Auction Specialist: 2BHK auction in Kharghar. 1300 sqft, 1.18Cr. Bank auction, clear title. Good investment opportunity. WhatsApp: 9812334567
+[29/01/2024, 15:40:42] Premium Properties: 3BHK in Seawoods. 2000 sqft, 3.6Cr. Premium location, high floor, sea view. Ready possession. Owner: 9823434567
+[29/01/2024, 16:45:33] Mall Space: Commercial in Vashi mall. 780 sqft, 91k rent. Ground floor, good visibility. Established footfall. Investment: 9876534567
+[30/01/2024, 08:30:27] Property Expert: 1BHK in Santacruz West. 720 sqft, 48k rent. 13th floor, renovated. Near station. Contact: 9898734567
+[30/01/2024, 09:35:18] Broker Partner: 2BHK in Vile Parle West. 1000 sqft, 59k rent. Semi-furnished, good locality. Family preferred. Call: 9811134567
+[30/01/2024, 10:40:42] Real Estate Pro: 3BHK in Bandra East. 2150 sqft, 2.9Cr sale. Well maintained, modern amenities. Good connectivity. WhatsApp: 9822234567
+[30/01/2024, 11:45:33] Commercial Expert: Office in Andheri West. 1800 sqft, 1.15L rent. IT park, fiber internet, parking. Ideal for IT company. Contact: 9833334567
+[30/01/2024, 12:50:27] Property Agent: 4BHK in Powai. 3400 sqft, 6.8Cr. Luxury apartment, clubhouse, swimming pool. Premium society. Call: 9844434567
+[30/01/2024, 13:35:42] Rental Agent: 1RK in Lokhandwala. 620 sqft, 33k rent. Basic furniture, all utilities. Good for students. WhatsApp: 9855534567
+[30/01/2024, 14:40:33] Budget Dealer: 2BHK in Kandivali East. 1080 sqft, 54k rent. 14th floor, quiet area. Security: 2 months. Contact: 9866634567
+[30/01/2024, 15:45:27] Luxury Dealer: 3BHK in Juhu. 3000 sqft, 5Cr sale. Beach facing, premium finishes, modern kitchen. Exclusive: 9877734567
+[31/01/2024, 08:25:18] Office Specialist: Commercial in Lower Parel. 2100 sqft, 1.3L rent. Premium building, reception, meeting room. Corporate: 9888834567
+[31/01/2024, 09:30:42] Resale Dealer: 2BHK in Malad West. 1120 sqft, 1.22Cr. 16 years old, good condition. Loan available. Call: 9899934567
+[31/01/2024, 10:35:33] Rental Network: 3BHK in Andheri East. 1600 sqft, 85k rent. Fully furnished, all appliances. Family only. WhatsApp: 9812345678
+[31/01/2024, 11:40:27] New Project: 1BHK in Thane East. 860 sqft, 86L. Ready possession, RERA registered. Immediate booking. Builder: 9823445678
+[31/01/2024, 12:45:18] Industrial: Warehouse in Bhiwandi. 12000 sqft, 3.8L rent. G+10, heavy power, security. Industrial area. Owner: 9876545678
+[31/01/2024, 13:50:42] Premium: 4BHK in Worli. 3900 sqft, 11.2Cr. Sea facing, private terrace, luxury amenities. Ultra premium. Agent: 9898745678
+[31/01/2024, 14:35:33] Commercial: Retail in Bandra. 660 sqft, 96k rent. High street, good footfall. Established location. Contact: 9811145678
+[01/02/2024, 08:30:27] Property: 2BHK in Goregaon East. 1140 sqft, 64k rent. 13th floor, corner location. Good society. Call: 9822245678
+[01/02/2024, 09:35:18] Broker: 3BHK in Chembur West. 1480 sqft, 1.48Cr sale. Ready to move, well maintained. Near station. WhatsApp: 9833345678
+[01/02/2024, 10:40:42] Real Estate: 1BHK in Borivali West. 840 sqft, 47k rent. 12th floor, renovated. Good for family. Contact: 9844445678
+[01/02/2024, 11:45:33] Service: 3BHK service in South Mumbai. 2400 sqft, 1.95L rent. All inclusive, premium service. Minimum 1 year: 9855545678
+[01/02/2024, 12:50:27] PG: 1RK PG in Andheri East. 540 sqft, 27k with food. AC, attached bath, Wi-Fi. Professionals only. Call: 9866645678
+[01/02/2024, 13:35:42] Farmhouse: Farmhouse in Karjat. 9 acre, 7.6Cr. 9 bedrooms, organic farm, pool. Peaceful location. WhatsApp: 9877745678
+[01/02/2024, 14:40:33] Auction: 2BHK auction in Panvel. 1320 sqft, 1.2Cr. Bank property, clear title. Good potential. Contact: 9888845678
+[01/02/2024, 15:45:27] Premium: 3BHK in Seawoods. 2020 sqft, 3.65Cr. High floor, sea view, premium amenities. Ready: 9899945678
+[02/02/2024, 08:25:18] Commercial: Shop in Vashi. 800 sqft, 92k rent. Prime location, good visibility. Established market. Call: 9812356789
+[02/02/2024, 09:30:42] Property: 1BHK in Santacruz. 740 sqft, 49k rent. 14th floor, semi-furnished. Near airport. WhatsApp: 9823456789
+[02/02/2024, 10:35:33] Broker: 2BHK in Vile Parle. 1020 sqft, 60k rent. 9th floor, separate entrance. Good for clinic. Contact: 9876556789
+[02/02/2024, 11:40:27] Real Estate: 3BHK in Bandra. 2200 sqft, 2.95Cr sale. Renovated, modern kitchen, 3 bathrooms. Premium: 9898756789
+[02/02/2024, 12:45:18] Commercial: Office in Andheri. 1850 sqft, 1.18L rent. IT park, modern facilities. Suitable for startup. Call: 9811156789
+[02/02/2024, 13:50:42] Property: 4BHK in Powai. 3450 sqft, 6.9Cr. Luxury apartment, all amenities. Premium society. WhatsApp: 9822256789
+[02/02/2024, 14:35:33] Rental: 1RK in Lokhandwala. 640 sqft, 34k rent. Fully furnished, all utilities. Good for professionals. Contact: 9833356789
+[02/02/2024, 15:40:27] Budget: 2BHK in Kandivali. 1100 sqft, 55k rent. 15th floor, park view. Family preferred. Call: 9844456789
+[03/02/2024, 08:30:42] Luxury: 3BHK in Juhu. 3050 sqft, 5.1Cr sale. Beach facing, premium finishes. Exclusive location. WhatsApp: 9855556789
+[03/02/2024, 09:35:33] Office: Commercial in Lower Parel. 2150 sqft, 1.32L rent. Premium building, all facilities. Corporate standards. Contact: 9866656789
+[03/02/2024, 10:40:27] Resale: 2BHK in Malad. 1140 sqft, 1.24Cr. 17 years old, good condition. Loan available. Call: 9877756789
+[03/02/2024, 11:45:18] Rental: 3BHK in Andheri. 1620 sqft, 86k rent. Fully furnished, modern appliances. Family only. WhatsApp: 9888856789
+[03/02/2024, 12:50:42] New Project: 1BHK in Thane. 880 sqft, 87L. Ready possession, RERA approved. Immediate booking. Builder: 9899956789
+[03/02/2024, 13:35:33] Industrial: Warehouse in Bhiwandi. 12500 sqft, 3.9L rent. G+11, heavy power, security. Industrial zone. Owner: 9812367890
+[03/02/2024, 14:40:27] Premium: 4BHK in Worli. 3950 sqft, 11.4Cr. Sea facing, luxury amenities, 4 parking. Ultra premium. Agent: 9823467890
+[03/02/2024, 15:45:18] Commercial: Retail in Bandra. 680 sqft, 97k rent. High street, good footfall. Established location. Contact: 9876567890
+[04/02/2024, 08:25:42] Property: 2BHK in Goregaon. 1160 sqft, 65k rent. 14th floor, corner flat. Good society. Call: 9898767890
+[04/02/2024, 09:30:33] Broker: 3BHK in Chembur. 1500 sqft, 1.45Cr sale. Ready to move, well maintained. Near highway. WhatsApp: 9811167890
+[04/02/2024, 10:35:27] Real Estate: 1BHK in Borivali. 860 sqft, 48k rent. 13th floor, renovated. Good for family. Contact: 9822267890
+[04/02/2024, 11:40:18] Service: 3BHK service in South Mumbai. 2450 sqft, 1.98L rent. All inclusive, premium service. Minimum 1 year: 9833367890
+[04/02/2024, 12:45:42] PG: 1RK PG in Andheri. 560 sqft, 28k with food. AC, attached bath, Wi-Fi. Professionals only. Call: 9844467890
+[04/02/2024, 13:50:33] Farmhouse: Farmhouse in Lonavala. 9.5 acre, 7.9Cr. 10 bedrooms, mountain view, pool. Weekend getaway. WhatsApp: 9855567890
+[04/02/2024, 14:35:27] Auction: 2BHK auction in Kharghar. 1350 sqft, 1.22Cr. Bank property, clear title. Good investment. Contact: 9866667890
+[04/02/2024, 15:40:18] Premium: 3BHK in Seawoods. 2050 sqft, 3.7Cr. High floor, sea view, premium amenities. Ready: 9877767890
+[05/02/2024, 08:30:42] Commercial: Shop in Vashi. 820 sqft, 93k rent. Prime location, good visibility. Established market. Call: 9888867890
+[05/02/2024, 09:35:33] Property: 1BHK in Santacruz. 760 sqft, 50k rent. 15th floor, semi-furnished. Near airport. WhatsApp: 9899967890
+[05/02/2024, 10:40:27] Broker: 2BHK in Vile Parle. 1040 sqft, 61k rent. 10th floor, separate entrance. Good for office. Contact: 9812378901
+[05/02/2024, 11:45:18] Real Estate: 3BHK in Bandra. 2250 sqft, 3Cr sale. Renovated, modern kitchen, 3 bathrooms. Premium: 9823478901
+[05/02/2024, 12:50:42] Commercial: Office in Andheri. 1900 sqft, 1.2L rent. IT park, modern facilities. Suitable for IT company. Call: 9876578901
+[05/02/2024, 13:35:33] Property: 4BHK in Powai. 3500 sqft, 7Cr. Luxury apartment, all amenities. Premium society. WhatsApp: 9898778901
+[05/02/2024, 14:40:27] Rental: 1RK in Lokhandwala. 660 sqft, 35k rent. Fully furnished, all utilities. Good for professionals. Contact: 9811178901
+[05/02/2024, 15:45:18] Budget: 2BHK in Kandivali. 1120 sqft, 56k rent. 16th floor, park view. Family preferred. Call: 9822278901
+[06/02/2024, 08:25:42] Luxury: 3BHK in Juhu. 3100 sqft, 5.2Cr sale. Beach facing, premium finishes. Exclusive location. WhatsApp: 9833378901
+[06/02/2024, 09:30:33] Office: Commercial in Lower Parel. 2200 sqft, 1.35L rent. Premium building, all facilities. Corporate standards. Contact: 9844478901
+[06/02/2024, 10:35:27] Resale: 2BHK in Malad. 1160 sqft, 1.26Cr. 18 years old, good condition. Loan available. Call: 9855578901
+[06/02/2024, 11:40:18] Rental: 3BHK in Andheri. 1640 sqft, 87k rent. Fully furnished, modern appliances. Family only. WhatsApp: 9866678901
+[06/02/2024, 12:45:42] New Project: 1BHK in Thane. 900 sqft, 88L. Ready possession, RERA approved. Immediate booking. Builder: 9877778901
+[06/02/2024, 13:50:33] Industrial: Warehouse in Bhiwandi. 13000 sqft, 4L rent. G+12, heavy power, security. Industrial zone. Owner: 9888878901
+[06/02/2024, 14:35:27] Premium: 4BHK in Worli. 4000 sqft, 11.6Cr. Sea facing, luxury amenities, 4 parking. Ultra premium. Agent: 9899978901
+[07/02/2024, 08:30:18] Commercial: Retail in Bandra. 700 sqft, 98k rent. High street, good footfall. Established location. Contact: 9812389012
+[07/02/2024, 09:35:42] Property: 2BHK in Goregaon. 1180 sqft, 66k rent. 15th floor, corner location. Good society. Call: 9823489012
+[07/02/2024, 10:40:33] Broker: 3BHK in Chembur. 1520 sqft, 1.42Cr sale. Ready to move, well maintained. Near station. WhatsApp: 9876589012
+[07/02/2024, 11:45:27] Real Estate: 1BHK in Borivali. 880 sqft, 49k rent. 14th floor, renovated. Good for family. Contact: 9898789012
+[07/02/2024, 12:50:18] Service: 3BHK service in South Mumbai. 2500 sqft, 2L rent. All inclusive, premium service. Minimum 1 year: 9811189012
+[07/02/2024, 13:35:42] PG: 1RK PG in Andheri. 580 sqft, 29k with food. AC, attached bath, Wi-Fi. Professionals only. Call: 9822289012
+[07/02/2024, 14:40:33] Farmhouse: Farmhouse in Karjat. 10 acre, 8.2Cr. 10 bedrooms, organic farm, pool. Peaceful location. WhatsApp: 9833389012
+[07/02/2024, 15:45:27] Auction: 2BHK auction in Panvel. 1380 sqft, 1.25Cr. Bank property, clear title. Good potential. Contact: 9844489012
+[08/02/2024, 08:25:18] Premium: 3BHK in Seawoods. 2080 sqft, 3.75Cr. High floor, sea view, premium amenities. Ready: 9855589012
+[08/02/2024, 09:30:42] Commercial: Shop in Vashi. 840 sqft, 94k rent. Prime location, good visibility. Established market. Call: 9866689012
+[08/02/2024, 10:35:33] Property: 1BHK in Santacruz. 780 sqft, 51k rent. 16th floor, semi-furnished. Near airport. WhatsApp: 9877789012
+[08/02/2024, 11:40:27] Broker: 2BHK in Vile Parle. 1060 sqft, 62k rent. 11th floor, separate entrance. Good for clinic. Contact: 9888889012
+[08/02/2024, 12:45:18] Real Estate: 3BHK in Bandra. 2300 sqft, 3.05Cr sale. Renovated, modern kitchen, 3 bathrooms. Premium: 9899989012
+[08/02/2024, 13:50:42] Commercial: Office in Andheri. 1950 sqft, 1.22L rent. IT park, modern facilities. Suitable for startup. Call: 9812390123
+[08/02/2024, 14:35:33] Property: 4BHK in Powai. 3550 sqft, 7.1Cr. Luxury apartment, all amenities. Premium society. WhatsApp: 9823490123
+[08/02/2024, 15:40:27] Rental: 1RK in Lokhandwala. 680 sqft, 36k rent. Fully furnished, all utilities. Good for professionals. Contact: 9876590123
+[09/02/2024, 08:30:18] Budget: 2BHK in Kandivali. 1140 sqft, 57k rent. 17th floor, park view. Family preferred. Call: 9898790123
+[09/02/2024, 09:35:42] Luxury: 3BHK in Juhu. 3150 sqft, 5.3Cr sale. Beach facing, premium finishes. Exclusive location. WhatsApp: 9811190123
+[09/02/2024, 10:40:33] Office: Commercial in Lower Parel. 2250 sqft, 1.38L rent. Premium building, all facilities. Corporate standards. Contact: 9822290123
+[09/02/2024, 11:45:27] Resale: 2BHK in Malad. 1180 sqft, 1.28Cr. 19 years old, good condition. Loan available. Call: 9833390123
+[09/02/2024, 12:50:18] Rental: 3BHK in Andheri. 1660 sqft, 88k rent. Fully furnished, modern appliances. Family only. WhatsApp: 9844490123
+[09/02/2024, 13:35:42] New Project: 1BHK in Thane. 920 sqft, 89L. Ready possession, RERA approved. Immediate booking. Builder: 9855590123
+[09/02/2024, 14:40:33] Industrial: Warehouse in Bhiwandi. 13500 sqft, 4.1L rent. G+13, heavy power, security. Industrial zone. Owner: 9866690123
+[09/02/2024, 15:45:27] Premium: 4BHK in Worli. 4050 sqft, 11.8Cr. Sea facing, luxury amenities, 4 parking. Ultra premium. Agent: 9877790123
+[10/02/2024, 08:25:18] Commercial: Retail in Bandra. 720 sqft, 99k rent. High street, good footfall. Established location. Contact: 9888890123
+[10/02/2024, 09:30:42] Property: 2BHK in Goregaon. 1200 sqft, 67k rent. 16th floor, corner flat. Good society. Call: 9899990123
+[10/02/2024, 10:35:33] Broker: 3BHK in Chembur. 1540 sqft, 1.4Cr sale. Ready to move, well maintained. Near highway. WhatsApp: 9812301234
+[10/02/2024, 11:40:27] Real Estate: 1BHK in Borivali. 900 sqft, 50k rent. 15th floor, renovated. Good for family. Contact: 9823401234
+[10/02/2024, 12:45:18] Service: 3BHK service in South Mumbai. 2550 sqft, 2.02L rent. All inclusive, premium service. Minimum 1 year: 9876501234
+[10/02/2024, 13:50:42] PG: 1RK PG in Andheri. 600 sqft, 30k with food. AC, attached bath, Wi-Fi. Professionals only. Call: 9898701234
+[10/02/2024, 14:35:33] Farmhouse: Farmhouse in Lonavala. 10.5 acre, 8.5Cr. 11 bedrooms, mountain view, pool. Weekend getaway. WhatsApp: 9811101234
+[10/02/2024, 15:40:27] Auction: 2BHK auction in Kharghar. 1400 sqft, 1.28Cr. Bank property, clear title. Good investment. Contact: 9822201234
